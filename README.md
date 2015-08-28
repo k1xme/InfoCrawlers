@@ -1,8 +1,8 @@
-Directory Crawlers
----
+InfoCrawlers
+===
 
 This is a test project that utilizes Scrapy to scrape person info from the public directory site of universities.
-===
+---
 
 All 3 spiders are of `scrapy.spiders.Spider`.
 
