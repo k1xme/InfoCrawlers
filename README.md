@@ -4,6 +4,17 @@ InfoCrawlers
 This is a test project that utilizes Scrapy to scrape person info from the public directory site of universities.
 ---
 
+####Prerequisites:
+- PyMongo
+- Scrapy
+- xlwt
+- xlrd
+
+
+####Before Running:
+Remember to put a `lastname.xls` file with the lastnames in the second column in the root directory of this project.
+
+
 All 3 spiders are of `scrapy.spiders.Spider`.
 
 - `miami_univ` is featured with the capabilities of handling multiple sessions withn one spider instance.
