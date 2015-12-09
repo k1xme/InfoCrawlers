@@ -4,7 +4,7 @@ InfoCrawlers
 This is a test project that utilizes Scrapy to scrape person info from the public directory site of universities.
 ---
 
-####Prerequisites:
+####Dependencies:
 - PyMongo
 - Scrapy
 - xlwt
